@@ -6,7 +6,7 @@ import tempfile
 
 import pandas as pd
 
-from app.ETL import pipeline_completa
+from app.pipeline import pipeline_completa
 
 
 def test_integration():
