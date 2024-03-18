@@ -2,7 +2,7 @@
 
 import os
 
-from ETL import pipeline_completa
+from pipeline import pipeline_completa
 from utils import generate_absenteeism_data
 
 
