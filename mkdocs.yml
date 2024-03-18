@@ -1,0 +1,14 @@
+site_name: Estrutura_de_Projetos
+site_url: https://example.com/
+nav:
+  - Home: index.md
+  - API: api.md
+theme: material
+
+repo_name: "Estrutura de Projetos"
+repo_url: "https://github.com/EricPettersonL/Estrutura_de_Projeto"
+
+plugins:
+  - search
+  - mkdocstrings:
+      default_handler: python
