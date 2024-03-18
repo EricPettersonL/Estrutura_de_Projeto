@@ -10,5 +10,6 @@ repo_url: "https://github.com/EricPettersonL/Estrutura_de_Projeto"
 
 plugins:
   - search
+  - mermaid2
   - mkdocstrings:
       default_handler: python
